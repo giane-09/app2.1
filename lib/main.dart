@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           children: [
             CircleAvatar(radius: 60.0,
             backgroundColor: Colors.white,
-            backgroundImage: AssetImage("assets/images/person2.jpg"),
+            backgroundImage: AssetImage("assets/images/persona2.jpg"),
             ),
             Text(
               "Fiorela de Fatima Guadalupe", style: TextStyle(
